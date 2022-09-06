@@ -5,3 +5,4 @@
       2   5    7   9
     1   3
     0 
+<p> Root = 6 , rootun solunda 6'dan küçük rakamlar, rootun sağında 6'dan büyük rakamlar bulunur. </p>
