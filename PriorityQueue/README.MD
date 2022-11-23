@@ -1,4 +1,4 @@
-Bankada işlem yapmak için sıra alan müşterilerin simülasyonu yapacaksınız. Müşteri
+Bankada işlem yapmak için sıra alan müşterilerin simülasyonu yapılacaktır. Müşteri
 profilleri:
 
 1-Kurumsal işlem yapan müşteriler
